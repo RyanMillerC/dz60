@@ -15,7 +15,7 @@ $ make git-submodule
 ## Build
 
 ```
-Not sure yet...
+make dz60:ryanmillerc
 ```
 
 ## Flash
@@ -23,5 +23,5 @@ Not sure yet...
 Attach keyboard, enter RESET mode, then run:
 
 ```
-Not sure yet...
+make dz60:ryanmillerc:dfu
 ```
