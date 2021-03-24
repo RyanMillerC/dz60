@@ -10,6 +10,7 @@ $ cd qmk_firmware
 $ git clone https://github.com/ryanmillerc/dz60.git \
             keyboards/dz60/keymaps/ryanmillerc
 $ make git-submodule
+$ ./utils/qmk_install.sh
 ```
 
 ## Build
