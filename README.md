@@ -1,4 +1,4 @@
-# DZ60 Layout
+# DZ60 Custom Layout
 
 Custom layout for building DZ60 keyboard [QMK Firmware](https://github.com/qmk/qmk_firmware).
 
